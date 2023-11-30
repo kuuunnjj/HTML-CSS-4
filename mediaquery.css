@@ -1,0 +1,33 @@
+/* @media (max-width:480px){
+    .header .navlinks{ */
+        /* display: none; */
+        /* width: 0%;
+        height: auto;
+        border: 1px solid;
+    }
+    .header .navbar .navicon a{
+        display: none;
+    }
+    .header .navbar .navicon span{
+        display: none;
+    }
+     .header .navbar{
+        width: 90%;
+        height: auto;
+        margin-inline: 20px;
+    } 
+    .header .navbar .logo{
+        height: auto;
+        border: 1px solid;
+        display: flex;
+        flex-direction: row;
+    }
+    .header .navbar span{
+    font-size: 12px;
+    font-weight: 500;
+  }
+    .header .navbar h1{
+    font-size: 12px;
+    font-weight: 500;
+  }
+} */
